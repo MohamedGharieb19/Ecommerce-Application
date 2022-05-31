@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Body Shop</string>
+    <string name="Hello">"Hello, "</string>
+    <string name="welcome_Text">Lst\'s find out...</string>
+    <string name="Skin_Page">Skin</string>
+    <string name="Body_Page">Body</string>
+    <string name="Face_Page">Face</string>
+    <string name="Hair_Page">Hair</string>
+    <string name="Cart_Text">Cart</string>
+    <string name="Body_Text" />
+    <string name="Lotion_Text">Lotion</string>
+    <string name="MostPopular_Text">Most Popular</string>
+    <string name="Size_Text">Size</string>
+    <string name="Price_Tetxt">Price</string>
+    <string name="Prod1">Japanese Cherry Blossom</string>
+    <string name="Login_btn">Login</string>
+    <string name="Product_Text">Japanese Cherry Blossom</string>
+</resources>

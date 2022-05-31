@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="Hello">Hallo, </string>
+    <string name="welcome_Text">Lassen Sie uns Ihr Lieblings-Körperpflegeprodukt finden!</string>
+    <string name="Skin_Page">Haut</string>
+    <string name="Body_Page">Körper</string>
+    <string name="Face_Page">Gesicht</string>
+    <string name="Hair_Page">Haar</string>
+    <string name="Cart_Text">Wagen</string>
+
+    <string name="Body_Text">Körper</string>
+    <string name="Lotion_Text">Lotion</string>
+    <string name="MostPopular_Text">Am beliebtesten</string>
+
+    <string name="Size_Text">Größe</string>
+    <string name="Price_Tetxt">Preis</string>
+    <string name="Prod1">Japanische Kirschblüten</string>
+    <string name="Login_btn">Anmeldung</string>
+    <string name="Product_Text">Japanische Kirschblüten</string>
+</resources>
